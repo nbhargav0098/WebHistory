@@ -1,0 +1,47 @@
+.unordered-list {
+  list-style-type: none;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 5px #ececec;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.list-container {
+  display: flex;
+  align-items: center;
+  height: 70px;
+}
+.web-site {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+  width: 1400px;
+}
+.time {
+  font-size: 18px;
+}
+.logo {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.name {
+  font-size: 18px;
+}
+.domain-url {
+  color: #64748b;
+  font-family: Roboto;
+  font-size: 16px;
+  margin-left: 20px;
+  padding-top: 5px;
+}
+.logo-container {
+  display: flex;
+}
+.button-element {
+  background-color: #fff;
+  border: none;
+}
